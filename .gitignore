@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Virtual Enviroment
+venv/
+
+# Lab1
+Lab1/calib_esq
